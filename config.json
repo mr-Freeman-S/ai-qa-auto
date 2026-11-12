@@ -1,0 +1,8 @@
+{
+  "url": "http://mm-staging.wbtech.pro/",
+  "baseModel": "qwen3.5:4b",
+  "model": "qa-local",
+  "context": 65536,
+  "batchSize": 3,
+  "chromePath": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+}

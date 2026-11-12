@@ -1,0 +1,950 @@
+{
+  "cases": {
+    "DISP-01": {
+      "file": "cases/DISP-01.md",
+      "section": "Вход в плагин, отображение и темы"
+    },
+    "DISP-02": {
+      "file": "cases/DISP-02.md",
+      "section": "Вход в плагин, отображение и темы"
+    },
+    "DISP-03": {
+      "file": "cases/DISP-03.md",
+      "section": "Вход в плагин, отображение и темы"
+    },
+    "DISP-04": {
+      "file": "cases/DISP-04.md",
+      "section": "Вход в плагин, отображение и темы"
+    },
+    "GRID-01": {
+      "file": "cases/GRID-01.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-02": {
+      "file": "cases/GRID-02.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-03": {
+      "file": "cases/GRID-03.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-04": {
+      "file": "cases/GRID-04.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-05": {
+      "file": "cases/GRID-05.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-06": {
+      "file": "cases/GRID-06.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-07": {
+      "file": "cases/GRID-07.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-08": {
+      "file": "cases/GRID-08.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-09": {
+      "file": "cases/GRID-09.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-10": {
+      "file": "cases/GRID-10.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "GRID-11": {
+      "file": "cases/GRID-11.md",
+      "section": "DataGrid — общая механика списков"
+    },
+    "USR-01": {
+      "file": "cases/USR-01.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-02": {
+      "file": "cases/USR-02.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-03": {
+      "file": "cases/USR-03.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-04": {
+      "file": "cases/USR-04.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-05": {
+      "file": "cases/USR-05.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-06": {
+      "file": "cases/USR-06.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-07": {
+      "file": "cases/USR-07.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-08": {
+      "file": "cases/USR-08.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-09": {
+      "file": "cases/USR-09.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "USR-10": {
+      "file": "cases/USR-10.md",
+      "section": "Таблица «Пользователи»"
+    },
+    "TEAM-01": {
+      "file": "cases/TEAM-01.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-02": {
+      "file": "cases/TEAM-02.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-03": {
+      "file": "cases/TEAM-03.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-04": {
+      "file": "cases/TEAM-04.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-05": {
+      "file": "cases/TEAM-05.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-06": {
+      "file": "cases/TEAM-06.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-07": {
+      "file": "cases/TEAM-07.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-08": {
+      "file": "cases/TEAM-08.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-09": {
+      "file": "cases/TEAM-09.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-10": {
+      "file": "cases/TEAM-10.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-11": {
+      "file": "cases/TEAM-11.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-12": {
+      "file": "cases/TEAM-12.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-13": {
+      "file": "cases/TEAM-13.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-14": {
+      "file": "cases/TEAM-14.md",
+      "section": "Таблица «Команды»"
+    },
+    "TEAM-15": {
+      "file": "cases/TEAM-15.md",
+      "section": "Таблица «Команды»"
+    },
+    "CHAN-01": {
+      "file": "cases/CHAN-01.md",
+      "section": "Таблица «Каналы»"
+    },
+    "CHAN-02": {
+      "file": "cases/CHAN-02.md",
+      "section": "Таблица «Каналы»"
+    },
+    "CHAN-03": {
+      "file": "cases/CHAN-03.md",
+      "section": "Таблица «Каналы»"
+    },
+    "CHAN-04": {
+      "file": "cases/CHAN-04.md",
+      "section": "Таблица «Каналы»"
+    },
+    "CHAN-05": {
+      "file": "cases/CHAN-05.md",
+      "section": "Таблица «Каналы»"
+    },
+    "CHAN-06": {
+      "file": "cases/CHAN-06.md",
+      "section": "Таблица «Каналы»"
+    },
+    "FLD-01": {
+      "file": "cases/FLD-01.md",
+      "section": "Таблица «Поля»"
+    },
+    "FLD-02": {
+      "file": "cases/FLD-02.md",
+      "section": "Таблица «Поля»"
+    },
+    "FLD-03": {
+      "file": "cases/FLD-03.md",
+      "section": "Таблица «Поля»"
+    },
+    "FLD-04": {
+      "file": "cases/FLD-04.md",
+      "section": "Таблица «Поля»"
+    },
+    "FLD-05": {
+      "file": "cases/FLD-05.md",
+      "section": "Таблица «Поля»"
+    },
+    "FLD-06": {
+      "file": "cases/FLD-06.md",
+      "section": "Таблица «Поля»"
+    },
+    "FLD-07": {
+      "file": "cases/FLD-07.md",
+      "section": "Таблица «Поля»"
+    },
+    "FLD-08": {
+      "file": "cases/FLD-08.md",
+      "section": "Таблица «Поля»"
+    },
+    "FLD-09": {
+      "file": "cases/FLD-09.md",
+      "section": "Таблица «Поля»"
+    },
+    "TG-01": {
+      "file": "cases/TG-01.md",
+      "section": "«Настройки» → «Группы команд»"
+    },
+    "TG-02": {
+      "file": "cases/TG-02.md",
+      "section": "«Настройки» → «Группы команд»"
+    },
+    "TG-03": {
+      "file": "cases/TG-03.md",
+      "section": "«Настройки» → «Группы команд»"
+    },
+    "TG-04": {
+      "file": "cases/TG-04.md",
+      "section": "«Настройки» → «Группы команд»"
+    },
+    "TG-05": {
+      "file": "cases/TG-05.md",
+      "section": "«Настройки» → «Группы команд»"
+    },
+    "TG-06": {
+      "file": "cases/TG-06.md",
+      "section": "«Настройки» → «Группы команд»"
+    },
+    "TG-07": {
+      "file": "cases/TG-07.md",
+      "section": "«Настройки» → «Группы команд»"
+    },
+    "ACC-01": {
+      "file": "cases/ACC-01.md",
+      "section": "«Настройки» → «Доступ к полям»"
+    },
+    "ACC-02": {
+      "file": "cases/ACC-02.md",
+      "section": "«Настройки» → «Доступ к полям»"
+    },
+    "ACC-03": {
+      "file": "cases/ACC-03.md",
+      "section": "«Настройки» → «Доступ к полям»"
+    },
+    "ACC-04": {
+      "file": "cases/ACC-04.md",
+      "section": "«Настройки» → «Доступ к полям»"
+    },
+    "ACC-05": {
+      "file": "cases/ACC-05.md",
+      "section": "«Настройки» → «Доступ к полям»"
+    },
+    "ACC-06": {
+      "file": "cases/ACC-06.md",
+      "section": "«Настройки» → «Доступ к полям»"
+    },
+    "SR-01": {
+      "file": "cases/SR-01.md",
+      "section": "«Настройки» → «Старшие тимадмины»"
+    },
+    "SR-02": {
+      "file": "cases/SR-02.md",
+      "section": "«Настройки» → «Старшие тимадмины»"
+    },
+    "SR-03": {
+      "file": "cases/SR-03.md",
+      "section": "«Настройки» → «Старшие тимадмины»"
+    },
+    "VA-01": {
+      "file": "cases/VA-01.md",
+      "section": "«Посмотреть как»"
+    },
+    "VA-02": {
+      "file": "cases/VA-02.md",
+      "section": "«Посмотреть как»"
+    },
+    "VA-03": {
+      "file": "cases/VA-03.md",
+      "section": "«Посмотреть как»"
+    },
+    "VA-04": {
+      "file": "cases/VA-04.md",
+      "section": "«Посмотреть как»"
+    },
+    "EU-01": {
+      "file": "cases/EU-01.md",
+      "section": "«Настройки» → «Внешние пользователи»"
+    },
+    "EU-02": {
+      "file": "cases/EU-02.md",
+      "section": "«Настройки» → «Внешние пользователи»"
+    },
+    "EU-03": {
+      "file": "cases/EU-03.md",
+      "section": "«Настройки» → «Внешние пользователи»"
+    },
+    "AFD-01": {
+      "file": "cases/AFD-01.md",
+      "section": "«Настройки» → «Доступ к полям из справочника»"
+    },
+    "AFD-02": {
+      "file": "cases/AFD-02.md",
+      "section": "«Настройки» → «Доступ к полям из справочника»"
+    },
+    "AFD-03": {
+      "file": "cases/AFD-03.md",
+      "section": "«Настройки» → «Доступ к полям из справочника»"
+    },
+    "FRM-01": {
+      "file": "cases/FRM-01.md",
+      "section": "Список форм"
+    },
+    "FRM-02": {
+      "file": "cases/FRM-02.md",
+      "section": "Список форм"
+    },
+    "FRM-03": {
+      "file": "cases/FRM-03.md",
+      "section": "Список форм"
+    },
+    "FRM-04": {
+      "file": "cases/FRM-04.md",
+      "section": "Список форм"
+    },
+    "FBUILD-01": {
+      "file": "cases/FBUILD-01.md",
+      "section": "Страница формы / конструктор"
+    },
+    "FBUILD-02": {
+      "file": "cases/FBUILD-02.md",
+      "section": "Страница формы / конструктор"
+    },
+    "FBUILD-03": {
+      "file": "cases/FBUILD-03.md",
+      "section": "Страница формы / конструктор"
+    },
+    "FBUILD-04": {
+      "file": "cases/FBUILD-04.md",
+      "section": "Страница формы / конструктор"
+    },
+    "FBUILD-05": {
+      "file": "cases/FBUILD-05.md",
+      "section": "Страница формы / конструктор"
+    },
+    "FLC-01": {
+      "file": "cases/FLC-01.md",
+      "section": "Жизненный цикл формы"
+    },
+    "FLC-02": {
+      "file": "cases/FLC-02.md",
+      "section": "Жизненный цикл формы"
+    },
+    "FLC-03": {
+      "file": "cases/FLC-03.md",
+      "section": "Жизненный цикл формы"
+    },
+    "FLC-04": {
+      "file": "cases/FLC-04.md",
+      "section": "Жизненный цикл формы"
+    },
+    "FLC-05": {
+      "file": "cases/FLC-05.md",
+      "section": "Жизненный цикл формы"
+    },
+    "FLC-06": {
+      "file": "cases/FLC-06.md",
+      "section": "Жизненный цикл формы"
+    },
+    "FLC-07": {
+      "file": "cases/FLC-07.md",
+      "section": "Жизненный цикл формы"
+    },
+    "LINK-01": {
+      "file": "cases/LINK-01.md",
+      "section": "Форма-задание ↔ форма-отчет, ссылки, исполнители"
+    },
+    "LINK-02": {
+      "file": "cases/LINK-02.md",
+      "section": "Форма-задание ↔ форма-отчет, ссылки, исполнители"
+    },
+    "LINK-03": {
+      "file": "cases/LINK-03.md",
+      "section": "Форма-задание ↔ форма-отчет, ссылки, исполнители"
+    },
+    "LINK-04": {
+      "file": "cases/LINK-04.md",
+      "section": "Форма-задание ↔ форма-отчет, ссылки, исполнители"
+    },
+    "LINK-05": {
+      "file": "cases/LINK-05.md",
+      "section": "Форма-задание ↔ форма-отчет, ссылки, исполнители"
+    },
+    "LINK-06": {
+      "file": "cases/LINK-06.md",
+      "section": "Форма-задание ↔ форма-отчет, ссылки, исполнители"
+    },
+    "LINK-07": {
+      "file": "cases/LINK-07.md",
+      "section": "Форма-задание ↔ форма-отчет, ссылки, исполнители"
+    },
+    "LINK-08": {
+      "file": "cases/LINK-08.md",
+      "section": "Форма-задание ↔ форма-отчет, ссылки, исполнители"
+    },
+    "ANS-01": {
+      "file": "cases/ANS-01.md",
+      "section": "Заполнение и ответы"
+    },
+    "ANS-02": {
+      "file": "cases/ANS-02.md",
+      "section": "Заполнение и ответы"
+    },
+    "ANS-03": {
+      "file": "cases/ANS-03.md",
+      "section": "Заполнение и ответы"
+    },
+    "ANS-04": {
+      "file": "cases/ANS-04.md",
+      "section": "Заполнение и ответы"
+    },
+    "ANS-05": {
+      "file": "cases/ANS-05.md",
+      "section": "Заполнение и ответы"
+    },
+    "PP-01": {
+      "file": "cases/PP-01.md",
+      "section": "Политика оплат"
+    },
+    "PP-02": {
+      "file": "cases/PP-02.md",
+      "section": "Политика оплат"
+    },
+    "PP-03": {
+      "file": "cases/PP-03.md",
+      "section": "Политика оплат"
+    },
+    "PP-04": {
+      "file": "cases/PP-04.md",
+      "section": "Политика оплат"
+    },
+    "PP-05": {
+      "file": "cases/PP-05.md",
+      "section": "Политика оплат"
+    },
+    "PP-06": {
+      "file": "cases/PP-06.md",
+      "section": "Политика оплат"
+    },
+    "PP-07": {
+      "file": "cases/PP-07.md",
+      "section": "Политика оплат"
+    },
+    "PP-08": {
+      "file": "cases/PP-08.md",
+      "section": "Политика оплат"
+    },
+    "PP-09": {
+      "file": "cases/PP-09.md",
+      "section": "Политика оплат"
+    },
+    "SLASH-01": {
+      "file": "cases/SLASH-01.md",
+      "section": "Слэш-команды"
+    },
+    "SLASH-02": {
+      "file": "cases/SLASH-02.md",
+      "section": "Слэш-команды"
+    },
+    "SLASH-03": {
+      "file": "cases/SLASH-03.md",
+      "section": "Слэш-команды"
+    },
+    "SLASH-04": {
+      "file": "cases/SLASH-04.md",
+      "section": "Слэш-команды"
+    }
+  },
+  "batches": [
+    {
+      "name": "01-disp-01",
+      "file": "batches/01-disp-01.md",
+      "title": "Вход в плагин, отображение и темы",
+      "ids": [
+        "DISP-01",
+        "DISP-02",
+        "DISP-03"
+      ]
+    },
+    {
+      "name": "02-disp-02",
+      "file": "batches/02-disp-02.md",
+      "title": "Вход в плагин, отображение и темы",
+      "ids": [
+        "DISP-04"
+      ]
+    },
+    {
+      "name": "03-grid-01",
+      "file": "batches/03-grid-01.md",
+      "title": "DataGrid — общая механика списков",
+      "ids": [
+        "GRID-01",
+        "GRID-02",
+        "GRID-03"
+      ]
+    },
+    {
+      "name": "04-grid-02",
+      "file": "batches/04-grid-02.md",
+      "title": "DataGrid — общая механика списков",
+      "ids": [
+        "GRID-04",
+        "GRID-05",
+        "GRID-06"
+      ]
+    },
+    {
+      "name": "05-grid-03",
+      "file": "batches/05-grid-03.md",
+      "title": "DataGrid — общая механика списков",
+      "ids": [
+        "GRID-07",
+        "GRID-08",
+        "GRID-09"
+      ]
+    },
+    {
+      "name": "06-grid-04",
+      "file": "batches/06-grid-04.md",
+      "title": "DataGrid — общая механика списков",
+      "ids": [
+        "GRID-10",
+        "GRID-11"
+      ]
+    },
+    {
+      "name": "07-usr-01",
+      "file": "batches/07-usr-01.md",
+      "title": "Таблица «Пользователи»",
+      "ids": [
+        "USR-01",
+        "USR-02",
+        "USR-03"
+      ]
+    },
+    {
+      "name": "08-usr-02",
+      "file": "batches/08-usr-02.md",
+      "title": "Таблица «Пользователи»",
+      "ids": [
+        "USR-04",
+        "USR-05",
+        "USR-06"
+      ]
+    },
+    {
+      "name": "09-usr-03",
+      "file": "batches/09-usr-03.md",
+      "title": "Таблица «Пользователи»",
+      "ids": [
+        "USR-07",
+        "USR-08",
+        "USR-09"
+      ]
+    },
+    {
+      "name": "10-usr-04",
+      "file": "batches/10-usr-04.md",
+      "title": "Таблица «Пользователи»",
+      "ids": [
+        "USR-10"
+      ]
+    },
+    {
+      "name": "11-team-01",
+      "file": "batches/11-team-01.md",
+      "title": "Таблица «Команды»",
+      "ids": [
+        "TEAM-01",
+        "TEAM-02",
+        "TEAM-03"
+      ]
+    },
+    {
+      "name": "12-team-02",
+      "file": "batches/12-team-02.md",
+      "title": "Таблица «Команды»",
+      "ids": [
+        "TEAM-04",
+        "TEAM-05",
+        "TEAM-06"
+      ]
+    },
+    {
+      "name": "13-team-03",
+      "file": "batches/13-team-03.md",
+      "title": "Таблица «Команды»",
+      "ids": [
+        "TEAM-07",
+        "TEAM-08",
+        "TEAM-09"
+      ]
+    },
+    {
+      "name": "14-team-04",
+      "file": "batches/14-team-04.md",
+      "title": "Таблица «Команды»",
+      "ids": [
+        "TEAM-10",
+        "TEAM-11",
+        "TEAM-12"
+      ]
+    },
+    {
+      "name": "15-team-05",
+      "file": "batches/15-team-05.md",
+      "title": "Таблица «Команды»",
+      "ids": [
+        "TEAM-13",
+        "TEAM-14",
+        "TEAM-15"
+      ]
+    },
+    {
+      "name": "16-chan-01",
+      "file": "batches/16-chan-01.md",
+      "title": "Таблица «Каналы»",
+      "ids": [
+        "CHAN-01",
+        "CHAN-02",
+        "CHAN-03"
+      ]
+    },
+    {
+      "name": "17-chan-02",
+      "file": "batches/17-chan-02.md",
+      "title": "Таблица «Каналы»",
+      "ids": [
+        "CHAN-04",
+        "CHAN-05",
+        "CHAN-06"
+      ]
+    },
+    {
+      "name": "18-fld-01",
+      "file": "batches/18-fld-01.md",
+      "title": "Таблица «Поля»",
+      "ids": [
+        "FLD-01",
+        "FLD-02",
+        "FLD-03"
+      ]
+    },
+    {
+      "name": "19-fld-02",
+      "file": "batches/19-fld-02.md",
+      "title": "Таблица «Поля»",
+      "ids": [
+        "FLD-04",
+        "FLD-05",
+        "FLD-06"
+      ]
+    },
+    {
+      "name": "20-fld-03",
+      "file": "batches/20-fld-03.md",
+      "title": "Таблица «Поля»",
+      "ids": [
+        "FLD-07",
+        "FLD-08",
+        "FLD-09"
+      ]
+    },
+    {
+      "name": "21-tg-01",
+      "file": "batches/21-tg-01.md",
+      "title": "«Настройки» → «Группы команд»",
+      "ids": [
+        "TG-01",
+        "TG-02",
+        "TG-03"
+      ]
+    },
+    {
+      "name": "22-tg-02",
+      "file": "batches/22-tg-02.md",
+      "title": "«Настройки» → «Группы команд»",
+      "ids": [
+        "TG-04",
+        "TG-05",
+        "TG-06"
+      ]
+    },
+    {
+      "name": "23-tg-03",
+      "file": "batches/23-tg-03.md",
+      "title": "«Настройки» → «Группы команд»",
+      "ids": [
+        "TG-07"
+      ]
+    },
+    {
+      "name": "24-acc-01",
+      "file": "batches/24-acc-01.md",
+      "title": "«Настройки» → «Доступ к полям»",
+      "ids": [
+        "ACC-01",
+        "ACC-02",
+        "ACC-03"
+      ]
+    },
+    {
+      "name": "25-acc-02",
+      "file": "batches/25-acc-02.md",
+      "title": "«Настройки» → «Доступ к полям»",
+      "ids": [
+        "ACC-04",
+        "ACC-05",
+        "ACC-06"
+      ]
+    },
+    {
+      "name": "26-sr-01",
+      "file": "batches/26-sr-01.md",
+      "title": "«Настройки» → «Старшие тимадмины»",
+      "ids": [
+        "SR-01",
+        "SR-02",
+        "SR-03"
+      ]
+    },
+    {
+      "name": "27-va-01",
+      "file": "batches/27-va-01.md",
+      "title": "«Посмотреть как»",
+      "ids": [
+        "VA-01",
+        "VA-02",
+        "VA-03"
+      ]
+    },
+    {
+      "name": "28-va-02",
+      "file": "batches/28-va-02.md",
+      "title": "«Посмотреть как»",
+      "ids": [
+        "VA-04"
+      ]
+    },
+    {
+      "name": "29-eu-01",
+      "file": "batches/29-eu-01.md",
+      "title": "«Настройки» → «Внешние пользователи»",
+      "ids": [
+        "EU-01",
+        "EU-02",
+        "EU-03"
+      ]
+    },
+    {
+      "name": "30-afd-01",
+      "file": "batches/30-afd-01.md",
+      "title": "«Настройки» → «Доступ к полям из справочника»",
+      "ids": [
+        "AFD-01",
+        "AFD-02",
+        "AFD-03"
+      ]
+    },
+    {
+      "name": "31-frm-01",
+      "file": "batches/31-frm-01.md",
+      "title": "Список форм",
+      "ids": [
+        "FRM-01",
+        "FRM-02",
+        "FRM-03"
+      ]
+    },
+    {
+      "name": "32-frm-02",
+      "file": "batches/32-frm-02.md",
+      "title": "Список форм",
+      "ids": [
+        "FRM-04"
+      ]
+    },
+    {
+      "name": "33-fbuild-01",
+      "file": "batches/33-fbuild-01.md",
+      "title": "Страница формы / конструктор",
+      "ids": [
+        "FBUILD-01",
+        "FBUILD-02",
+        "FBUILD-03"
+      ]
+    },
+    {
+      "name": "34-fbuild-02",
+      "file": "batches/34-fbuild-02.md",
+      "title": "Страница формы / конструктор",
+      "ids": [
+        "FBUILD-04",
+        "FBUILD-05"
+      ]
+    },
+    {
+      "name": "35-flc-01",
+      "file": "batches/35-flc-01.md",
+      "title": "Жизненный цикл формы",
+      "ids": [
+        "FLC-01",
+        "FLC-02",
+        "FLC-03"
+      ]
+    },
+    {
+      "name": "36-flc-02",
+      "file": "batches/36-flc-02.md",
+      "title": "Жизненный цикл формы",
+      "ids": [
+        "FLC-04",
+        "FLC-05",
+        "FLC-06"
+      ]
+    },
+    {
+      "name": "37-flc-03",
+      "file": "batches/37-flc-03.md",
+      "title": "Жизненный цикл формы",
+      "ids": [
+        "FLC-07"
+      ]
+    },
+    {
+      "name": "38-link-01",
+      "file": "batches/38-link-01.md",
+      "title": "Форма-задание ↔ форма-отчет, ссылки, исполнители",
+      "ids": [
+        "LINK-01",
+        "LINK-02",
+        "LINK-03"
+      ]
+    },
+    {
+      "name": "39-link-02",
+      "file": "batches/39-link-02.md",
+      "title": "Форма-задание ↔ форма-отчет, ссылки, исполнители",
+      "ids": [
+        "LINK-04",
+        "LINK-05",
+        "LINK-06"
+      ]
+    },
+    {
+      "name": "40-link-03",
+      "file": "batches/40-link-03.md",
+      "title": "Форма-задание ↔ форма-отчет, ссылки, исполнители",
+      "ids": [
+        "LINK-07",
+        "LINK-08"
+      ]
+    },
+    {
+      "name": "41-ans-01",
+      "file": "batches/41-ans-01.md",
+      "title": "Заполнение и ответы",
+      "ids": [
+        "ANS-01",
+        "ANS-02",
+        "ANS-03"
+      ]
+    },
+    {
+      "name": "42-ans-02",
+      "file": "batches/42-ans-02.md",
+      "title": "Заполнение и ответы",
+      "ids": [
+        "ANS-04",
+        "ANS-05"
+      ]
+    },
+    {
+      "name": "43-pp-01",
+      "file": "batches/43-pp-01.md",
+      "title": "Политика оплат",
+      "ids": [
+        "PP-01",
+        "PP-02",
+        "PP-03"
+      ]
+    },
+    {
+      "name": "44-pp-02",
+      "file": "batches/44-pp-02.md",
+      "title": "Политика оплат",
+      "ids": [
+        "PP-04",
+        "PP-05",
+        "PP-06"
+      ]
+    },
+    {
+      "name": "45-pp-03",
+      "file": "batches/45-pp-03.md",
+      "title": "Политика оплат",
+      "ids": [
+        "PP-07",
+        "PP-08",
+        "PP-09"
+      ]
+    },
+    {
+      "name": "46-slash-01",
+      "file": "batches/46-slash-01.md",
+      "title": "Слэш-команды",
+      "ids": [
+        "SLASH-01",
+        "SLASH-02",
+        "SLASH-03"
+      ]
+    },
+    {
+      "name": "47-slash-02",
+      "file": "batches/47-slash-02.md",
+      "title": "Слэш-команды",
+      "ids": [
+        "SLASH-04"
+      ]
+    }
+  ]
+}

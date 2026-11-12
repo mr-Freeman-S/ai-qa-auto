@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "type": "stdio",
+      "command": "bash",
+      "args": ["./bin/mcp.sh"]
+    }
+  }
+}

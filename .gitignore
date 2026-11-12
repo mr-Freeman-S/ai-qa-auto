@@ -1,0 +1,11 @@
+chrome-profile/
+profiles/
+reports/
+.runtime/
+node_modules/
+
+fixtures.local.md
+
+.env
+.env.*
+!.env.example

@@ -1,0 +1,10 @@
+{
+  "name": "mm-local-qa",
+  "private": true,
+  "scripts": {
+    "setup": "node qa.mjs setup",
+    "qa": "node qa.mjs",
+    "split": "node qa.mjs split"
+  },
+  "dependencies": { "@playwright/mcp": "0.0.85" }
+}
