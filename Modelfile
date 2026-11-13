@@ -1,2 +1,2 @@
-FROM qwen3.5:4b
+FROM qwen3.8:27b-q8_0
 PARAMETER num_ctx 65536

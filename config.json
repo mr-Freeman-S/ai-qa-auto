@@ -1,6 +1,6 @@
 {
   "url": "http://mm-staging.wbtech.pro/",
-  "baseModel": "qwen3.5:4b",
+  "baseModel": "qwen3.8:27b-q8_0",
   "model": "qa-local",
   "context": 65536,
   "chromePath": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"

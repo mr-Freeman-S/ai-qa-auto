@@ -83,4 +83,4 @@ allowed-tools: Read, Write, Edit, Glob, Bash(mkdir -p reports/*), Bash(date *), 
 Вкладку оставь открытой.
 
 Не применяются из workflow: browser_close, вход через секреты Playwright, ограничения
-«контекст 4B-модели», запрет на JavaScript при входе (вход делает человек).
+«контекст локальной модели», запрет на JavaScript при входе (вход делает человек).
