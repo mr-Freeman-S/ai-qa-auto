@@ -5,6 +5,7 @@ reports/
 node_modules/
 
 fixtures.local.md
+fixtures.auto.md
 
 .env
 .env.*

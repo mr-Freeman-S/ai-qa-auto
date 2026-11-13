@@ -6,5 +6,7 @@
     "qa": "node qa.mjs",
     "split": "node qa.mjs split"
   },
-  "dependencies": { "@playwright/mcp": "0.0.85" }
+  "dependencies": {
+    "@playwright/mcp": "0.0.85"
+  }
 }
